@@ -21,7 +21,7 @@
     <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg">
   </div>
   
-  <br style="margin-bottom: 1px;">
+  <br>
   
   <div id="dev-web" style="display: inline-block">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
