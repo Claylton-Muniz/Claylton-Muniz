@@ -1,10 +1,10 @@
-<h4>👋 Olá pessoal, meu nome é Claylton Muniz. <h4/>
+<h2>👋 Olá pessoal, eu sou Claylton Muniz. </h2>
 
 - 🔭 Desenvolvedor Full Stack jr.
 
 - ✨ Atualmente desenvolvo alguns projetos persoais e alguns para minha universidade.
  
-<div width="100%">
+<div align="center" width="100%">
     <a href="https://github.com/Claylton-Muniz">
         <img heigth="160px" width="51%" src="https://github-readme-stats.vercel.app/api?username=Claylton-Muniz&show_icons=true&theme=tokyonight">
         <img heigth="160px" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claylton-Muniz&layout=compact&theme=tokyonight">
@@ -20,6 +20,8 @@
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg">
   </div>
+  
+  <br style="margin-bottom: 1px;">
   
   <div id="dev-web" style="display: inline-block">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
