@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Full Stack jr.
 
-- ✨ Atualmente desenvolvo alguns projetos persoais e alguns para minha universidade.
+- ✨ Atualmente desenvolvo alguns projetos pessoais e alguns para minha universidade.
  
 <div align="center" width="100%">
     <a href="https://github.com/Claylton-Muniz">
