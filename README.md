@@ -6,8 +6,9 @@
  
 <div align="center" width="100%">
   <a href="https://github.com/Claylton-Muniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claylton-Muniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claylton-Muniz&layout=compact&langs_count=7&theme=dracula"/>
+   <img heigth="160px" width="51%" src="https://github-readme-stats.vercel.app/api?username=Claylton-Muniz&show_icons=true&theme=tokyonight">
+   <img heigth="160px" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claylton-Muniz&layout=compact&theme=tokyonight">
+  </a>
 </div>
 
 <br>
