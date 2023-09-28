@@ -4,11 +4,12 @@
 
 - ✨ Atualmente desenvolvo alguns projetos pessoais e alguns para minha universidade.
  
-<div align="center" width="100%">
- <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Claylton-Muniz&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claylton-Muniz&theme=neon&hide_border=false"  width="400px" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claylton-Muniz&layout=compact&langs_count=7&theme=neon"/>
-</div>
+<div align="center" width="100%"><br>
+ <a href="https://github.com/FelipeFerraz4"><a href="https://github.com/Claylton-Muniz">
+  <img heigth="160px" width="51%" src="https://github-readme-stats.vercel.app/api?username=Claylton-Muniz&show_icons=true&theme=neon"/>
+  <img heigth="160px" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claylton-Muniz&layout=compact&theme=neon"/>
+ <a/>
+<div/>
 
 <br>
 
