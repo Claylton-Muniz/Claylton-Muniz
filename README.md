@@ -5,7 +5,7 @@
 - ✨ Atualmente desenvolvo alguns projetos pessoais e alguns para minha universidade.
  
 <div align="center" width="100%"><br>
- <a href="https://github.com/FelipeFerraz4"><a href="https://github.com/Claylton-Muniz">
+ <a href="https://github.com/Claylton-Muniz"><a href="https://github.com/Claylton-Muniz">
   <img heigth="160px" width="51%" src="https://github-readme-stats.vercel.app/api?username=Claylton-Muniz&show_icons=true&theme=neon"/>
   <img heigth="160px" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claylton-Muniz&layout=compact&theme=neon"/>
  <a/>
