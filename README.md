@@ -6,8 +6,8 @@
  
 <div align="center" width="100%"><br>
  <a href="https://github.com/Claylton-Muniz"><a href="https://github.com/Claylton-Muniz">
-  <img heigth="160px" width="51%" src="https://github-readme-stats.vercel.app/api?username=Claylton-Muniz&show_icons=true&theme=neon"/>
-  <img heigth="160px" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claylton-Muniz&layout=compact&theme=neon"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Claylton-Muniz&show_icons=true&count_private=true&hide_border=true&title_color=00EAD3&icon_color=00EAD3&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claylton-Muniz&layout=compact&hide_border=true&title_color=00EAD3&text_color=ff91a4&bg_color=0d1117"/>
  <a/>
 <div/>
 
